@@ -4,6 +4,8 @@
 
 This is a structured document retrieval and question-answering system based on MySQL database and RAG (Retrieval-Augmented Generation) technology. It covers the complete workflow from PDF parsing to database storage, retrieval, and evaluation.
 
+![项目演示图](./LogiRoute.png)
+
 ## Features
 
 - **Document Processing**:
